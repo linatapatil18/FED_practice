@@ -1,0 +1,27 @@
+
+
+.check {
+    background-color: rgb(144, 125, 255);
+    height: 70px;
+    width: 70px;
+    padding: 5px;
+    margin: 20px;
+    
+}
+
+#radius {
+    border: 7px double blue;
+    border-radius: 10px;
+}
+
+/* we can define all values different of border radius property. */
+#radius2 {
+    border: 5px solid green;
+    border-radius: 10px 50px 10px 10px;
+}
+
+/* we can create complete circle with the help of border radius property */
+#radius3 {
+    border: 5px solid;
+    border-radius: 45px;
+}

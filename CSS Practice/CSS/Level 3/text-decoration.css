@@ -1,0 +1,27 @@
+/* Text decoration property have three values: Underline, overline, line-through & none (none is used for links, when we want to remove underline in link. 
+Text-decoration style property have multiple values like dashed, dotted, double, solid, wavy. In below both properties covered.*/
+
+h1 {
+    background-color: powderblue;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-decoration-color: red;
+}
+h2 {
+    background-color: #a9a9a9;
+    text-align: center;
+    text-decoration: overline;
+    text-decoration-style: double;
+    text-decoration-color: blueviolet;
+}
+h3 {
+    background-color: hotpink;
+    text-align: center;
+    text-decoration: line-through;
+    text-decoration-style: wavy;
+    text-decoration-color: chartreuse;
+}
+a {
+    text-decoration: none;
+}

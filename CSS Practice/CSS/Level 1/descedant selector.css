@@ -1,0 +1,6 @@
+
+/*Not applied for both paragraphs because second paragraph is not descedant of #first */
+#first p {
+    color: dodgerblue;
+}
+

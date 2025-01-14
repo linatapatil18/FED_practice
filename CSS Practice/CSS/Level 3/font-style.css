@@ -1,0 +1,13 @@
+/* noraml is a default value of font-style property. */
+
+#style1 {
+    font-style: italic;
+}
+
+#style2 {
+    font-style: normal;
+}
+
+#style3 {
+    font-style: oblique;
+}

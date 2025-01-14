@@ -1,0 +1,23 @@
+h1 {
+    color: magenta;
+}
+
+#heading {
+    color: cornflowerblue;
+}
+
+#practice {
+    color: aqua;
+}
+
+p {
+    color: darkgreen;
+}
+
+.prep {
+    color: crimson;
+}
+
+#first, #second {
+    color: darkblue;
+}

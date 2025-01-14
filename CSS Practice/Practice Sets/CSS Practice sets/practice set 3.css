@@ -1,0 +1,20 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    background-color: cadetblue;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#inner {
+    font-size: 10px;
+}
+#outer {
+    font-size: 25px;
+}
+
+.fa-brands {
+    font-size: 100px;
+}

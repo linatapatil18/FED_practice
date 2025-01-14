@@ -1,0 +1,18 @@
+/* Learning of background color */
+.back_learn {
+    color: blueviolet;
+    background-color: gold;
+}
+
+/* RGB color model */
+p {
+    color: rgb(17, 17, 230);
+    background-color: rgb(193, 212, 174);
+}
+
+/* HEX color model */
+h2 {
+    color: #00ffff;
+    background-color: #3e3edf;
+}
+

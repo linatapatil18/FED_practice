@@ -1,0 +1,13 @@
+/* We can define font-weight property in pixels from 100 to 900 and also define in bold, light, lighter, bolder values. */
+
+#weight1 {
+    font-weight: bolder;
+}
+
+#weight2 {
+    font-weight: lighter;
+}
+
+#weight3 {
+    font-weight: 700px;
+}

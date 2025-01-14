@@ -1,0 +1,15 @@
+#first {
+    text-transform: capitalize;
+}
+
+#second {
+    text-transform: lowercase;
+}
+
+#third {
+    text-transform: uppercase;
+}
+
+#fourth {
+    text-overflow: none;
+}

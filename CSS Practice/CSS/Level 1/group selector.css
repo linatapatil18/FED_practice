@@ -1,0 +1,5 @@
+/* In group selector we can combine many selectors in group format with comma & can give them single property */
+
+#heading, .paragraph {
+    color: brown;
+}

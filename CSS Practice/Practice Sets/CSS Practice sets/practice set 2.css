@@ -1,0 +1,14 @@
+#practice {
+    background-color: rgba(238, 129, 50, 0.25);
+}
+main {
+   
+    height: 500px;
+    background-color: gainsboro;
+}
+/* Using shorthand property of image */
+#image {
+    height: 400px;
+    width: 200px;
+    background: powderblue url(/images/rose.png) no-repeat local center;
+}

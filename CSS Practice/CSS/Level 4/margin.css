@@ -1,0 +1,16 @@
+/* Margin is but the gap between two elemts, and margin will never count in box. Single value of margin will apply to all sides.*/
+#prep {
+    background-color: darkseagreen;
+    height: 70px;
+    width: 70px;
+    padding: 10px;
+    margin: 5px 5px 25px 5px;
+}
+
+#prep2 {
+    background-color: lightblue;
+    height: 70px;
+    width: 70px;
+    padding: 10px;
+    margin: 50px 5px 5px 5px;
+}

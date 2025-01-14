@@ -1,0 +1,23 @@
+/* By default text-align property have 'left' value. */
+
+#box1 {
+    height: 100px;
+    width: 100px;
+    background-color: yellowgreen;
+    
+    text-align: center;
+}
+
+#box2 {
+    height: 100px;
+    width: 100px;
+    background-color: paleturquoise;
+    text-align: right;
+}
+
+#box3 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(192, 136, 214);
+    text-align: left;
+}
